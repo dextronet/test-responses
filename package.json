@@ -1,0 +1,7 @@
+{
+  "name": "test-responses",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "engine": "node >= 0.8.21"
+}
